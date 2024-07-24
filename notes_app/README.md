@@ -13,5 +13,5 @@
   "reference":"Its demo"
 }
 
--Delete a Note : http://localhost:3000/api/notes?noteId=668221dce2a02f1d09ce3748
+- Delete a Note : http://localhost:3000/api/notes?noteId=668221dce2a02f1d09ce3748
 
